@@ -1,7 +1,7 @@
 # General Election Results Analysis 2024
 
 ## Project Overview
-The **General Election Results Analysis 2024** project aims to provide in-depth insights into the election results for the upcoming 2024 general elections. This project leverages SQL to analyze voting data, demographic trends, and candidate performance across various constituencies.
+The **General Election Results Analysis 2024** project aims to provide in-depth insights into the election results for the 2024 general elections. This project leverages SQL to analyze voting data, demographic trends, and candidate performance across various constituencies.
 
 ## Key Features
 - **Data Cleaning**: Removing inconsistencies, duplicates, and null values from raw election datasets using SQL functions.
